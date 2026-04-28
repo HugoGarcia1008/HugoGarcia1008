@@ -111,20 +111,6 @@ public class HugoGarciaCestarDias {
 
 ---
 
-### 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoGarcia1008/HugoGarcia1008/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoGarcia1008/HugoGarcia1008/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/HugoGarcia1008/HugoGarcia1008/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HugoGarcia1008&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
