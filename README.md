@@ -67,6 +67,11 @@ public class HugoGarciaCestarDias {
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
 
+#### 🔷 .NET & C#
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=9b4f96)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=512bd4)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=512bd4)
+
 #### 🐍 Backend & Scripts
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
