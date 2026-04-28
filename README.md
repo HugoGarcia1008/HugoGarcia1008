@@ -6,9 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e94560)](https://linkedin.com/in/hugogcdias)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:hugogcdias@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e94560)](https://github.com/hugogcdias)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e94560)](https://linkedin.com/in/HugoGarcia1008)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:HugoGarcia1008@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e94560)](https://github.com/HugoGarcia1008)
 
 ![Location](https://img.shields.io/badge/São_Bernardo_do_Campo–SP-0d1117?style=for-the-badge&logo=googlemaps&logoColor=e94560)
 ![Age](https://img.shields.io/badge/20_anos-0d1117?style=for-the-badge&logo=cake&logoColor=e94560)
@@ -93,14 +93,14 @@ public class HugoGarciaCestarDias {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugogcdias&show_icons=true&theme=transparent&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_color=1a1a2e&hide_border=false&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugogcdias&layout=compact&theme=transparent&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&border_color=1a1a2e&hide_border=false&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoGarcia1008&show_icons=true&theme=transparent&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_color=1a1a2e&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoGarcia1008&layout=compact&theme=transparent&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&border_color=1a1a2e&hide_border=false&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hugogcdias&theme=transparent&background=0d1117&border=1a1a2e&ring=e94560&fire=e94560&currStreakNum=a8b2d8&sideNums=a8b2d8&currStreakLabel=e94560&sideLabels=e94560&dates=a8b2d8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HugoGarcia1008&theme=transparent&background=0d1117&border=1a1a2e&ring=e94560&fire=e94560&currStreakNum=a8b2d8&sideNums=a8b2d8&currStreakLabel=e94560&sideLabels=e94560&dates=a8b2d8)](https://git.io/streak-stats)
 
 </div>
 
@@ -111,9 +111,9 @@ public class HugoGarciaCestarDias {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugogcdias/hugogcdias/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugogcdias/hugogcdias/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/hugogcdias/hugogcdias/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoGarcia1008/HugoGarcia1008/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoGarcia1008/HugoGarcia1008/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/HugoGarcia1008/HugoGarcia1008/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -122,7 +122,7 @@ public class HugoGarciaCestarDias {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hugogcdias&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=HugoGarcia1008&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
