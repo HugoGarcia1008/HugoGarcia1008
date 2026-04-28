@@ -65,7 +65,6 @@ public class HugoGarciaCestarDias {
 ![Spring Security](https://img.shields.io/badge/Spring_Security-0d1117?style=for-the-badge&logo=springsecurity&logoColor=6db33f)
 ![Hibernate](https://img.shields.io/badge/Hibernate-0d1117?style=for-the-badge&logo=hibernate&logoColor=bcae79)
 ![Maven](https://img.shields.io/badge/Maven-0d1117?style=for-the-badge&logo=apachemaven&logoColor=c71a36)
-![Gradle](https://img.shields.io/badge/Gradle-0d1117?style=for-the-badge&logo=gradle&logoColor=02303a)
 ![JUnit5](https://img.shields.io/badge/JUnit5-0d1117?style=for-the-badge&logo=junit5&logoColor=25a162)
 
 #### 🌐 Frontend
