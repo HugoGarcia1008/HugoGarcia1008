@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e94560)](https://linkedin.com/in/HugoGarcia1008)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:HugoGarcia1008@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:hugogcdias@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e94560)](https://github.com/HugoGarcia1008)
 
 ![Location](https://img.shields.io/badge/São_Bernardo_do_Campo–SP-0d1117?style=for-the-badge&logo=googlemaps&logoColor=e94560)
