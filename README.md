@@ -144,7 +144,6 @@ public class HugoGarciaCestarDias {
 
 <br/>
 
-⭐️ Feito com muito ☕ por **Hugo Garcia Cestari Dias**
 
 </div>
 
